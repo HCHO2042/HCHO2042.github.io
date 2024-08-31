@@ -13,6 +13,8 @@ During my undergraduate years, I am very fortunate to be advised by [Prof.Xiaoju
 
 You can find my CV here: [Jia Qingyuan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email] qjia@mail.nwpu.edu.cn
-[Github] https://hcho2042.github.io/
-[Wechat] Astrologer_HCHO
+[Email] (qjia@mail.nwpu.edu.cn)
+
+[Github] (https://hcho2042.github.io)
+
+[Wechat] (Astrologer_HCHO)
